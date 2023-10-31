@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioHotel_/1.0.0": {
+        "runtime": {
+          "DesafioHotel_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioHotel_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
